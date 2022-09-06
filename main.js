@@ -63,3 +63,12 @@ elVideo.addEventListener('play', () => {
         })
     })
 })
+
+/* 
+Desarrollo de Reconocimiento facial 
+Electiva V: Inteligencia Artificial 
+Bachiller: Pedro Acosta 28176538
+
+
+
+*/
